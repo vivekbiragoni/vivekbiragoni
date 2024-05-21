@@ -23,10 +23,19 @@ I'm Vivek Biragoni, a student passionate about AI and web development.
 - **[blogger](https://github.com/vivekbiragoni/blogger)**: a simple website builder for bloggers, built using Express.js, Node.js, and EJS.
 - **[css_personal_website](https://github.com/vivekbiragoni/css_personal_website)**: HTML+CSS based portfolio.
 
+
+## 🚧 Currently Working On
+- [Blogger](https://github.com/vivekbiragoni/blogger): A full-stack project focused on creating a blogging platform.
+- Identifying genetic disorders using facial images.
+- Practicing problem-solving on platforms like [LeetCode](https://leetcode.com/u/vivekbiragoni/) to improve coding skills for technical interviews.
+
+
+
+
 ## 🌱 Skills
 - Languages: C++, Python, JavaScript, HTML, CSS
 - Frontend Frameworks: Bootstrap, EJS
-- Backend Frameworks: Node.js
+- Backend Frameworks: Node.js, Express.js
 - Database: PostgreSQL
 - Machine Learning Frameworks: PyTorch
 - Tools: Jupyter Notebook, Git, GitHub
