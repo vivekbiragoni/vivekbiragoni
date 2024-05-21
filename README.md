@@ -34,15 +34,16 @@ I'm Vivek Biragoni, a student passionate about AI and web development.
 
 ## 🌱 Skills
 - Languages: C++, Python, JavaScript, HTML, CSS
+- Machine Learning Frameworks: PyTorch
 - Frontend Frameworks: Bootstrap, EJS
 - Backend Frameworks: Node.js, Express.js
 - Database: PostgreSQL
-- Machine Learning Frameworks: PyTorch
 - Tools: Jupyter Notebook, Git, GitHub
 
 ## 📊 GitHub Stats
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekbiragoni&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbiragoni&layout=compact&theme=radical)](https://github.com/vivekbiragoni/github-readme-stats)
+
 
 ## 💼 Contributions Summary
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=vivekbiragoni)
@@ -50,7 +51,3 @@ I'm Vivek Biragoni, a student passionate about AI and web development.
 ## 📫 Contact
 - Email: vivekbiragoni@gmail.com.com
 - LinkedIn: [Vivek Biragoni](https://linkedin.com/in/vivekbiragoni)
-
-
-
-
