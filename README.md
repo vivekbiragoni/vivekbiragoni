@@ -19,14 +19,18 @@ Here are some ideas to get you started:
 I'm Vivek Biragoni, a student passionate about AI and web development.
 
 ## 🔭 Projects
-- **[TRINIT-TV-ML](https://github.com/vinuhack/TRINIT-TV-ML)**: Machine learning project in Jupyter Notebook.
-- **[blogger](https://github.com/vivekbiragoni/blogger)**: a simple website builder for bloggers, built using Express.js, Node.js, and EJS.
-- **[css_personal_website](https://github.com/vivekbiragoni/css_personal_website)**: HTML+CSS based portfolio.
+- **[Road Damage Detection](https://github.com/vinuhack/TRINIT-TV-ML)**: Deep Learning Project using FasterRCNN to Detect road damages.
+- **[Blogger](https://github.com/vivekbiragoni/blogger)**: a simple website builder for bloggers, built using Express.js, Node.js, and EJS.
+- **[Personal Website](https://github.com/vivekbiragoni/css_personal_website)**: HTML+CSS based portfolio.
+
+
 
 
 ## 🚧 Currently Working On
 - [Blogger](https://github.com/vivekbiragoni/blogger): A full-stack project focused on creating a blogging platform.
-- Identifying genetic disorders using facial images.
+- Identifying genetic disorders using facial images:
+  - [Front End](https://github.com/vivekbiragoni/GeneticDisorderFrontEnd): Uses ReactJS for the FrontEnd.
+  - [Back End](https://github.com/vivekbiragoni/GeneticDisorders): This has the code for the backend part, which has been built with reference from the Ultralytics YOLOv8 classifying model.
 - Practicing problem-solving on platforms like [LeetCode](https://leetcode.com/u/vivekbiragoni/) to improve coding skills for technical interviews.
 
 
